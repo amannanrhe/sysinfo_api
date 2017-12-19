@@ -1,0 +1,23 @@
+{
+  "name": "sysinfo_api",
+  "version": "0.0.1",
+  "description": "API to display information from request header",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amannanrhe/sysinfo_api.git"
+  },
+  "dependencies": {
+    "debug": "2.2.0",
+    "express": "4.13.1"
+  },
+  "author": "aman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amannanrhe/sysinfo_api/issues"
+  },
+  "homepage": "https://github.com/amannanrhe/sysinfo_api#readme"
+}
